@@ -1,5 +1,3 @@
 # Colaboration
 
 netology
-
-commandnaya rabota
